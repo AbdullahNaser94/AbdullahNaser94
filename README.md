@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-[![Website lbesson.bitbucket.io](https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg)](https://lbesson.bitbucket.io/)
-v[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 
 - 🔭 I’m currently working on ... someThink
