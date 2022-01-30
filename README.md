@@ -6,6 +6,8 @@
  
  <h3 align="center">A fullStack developer</h3>
  
+ <p> I have been working in the web field since 2021, and during this time I studied at <strong><a href="https://www.linkedin.com/company/merakiacademyjo/mycompany/">Meraki Academy</a></strong>,  and worked on various projects such as: Social Media, Jim's website .
+ 
 ## 📚 Libraries
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
